@@ -38,6 +38,5 @@ For the logic of the "tail", I will need some more time to really think about it
 
 ## Screenshots
 
-![App Screenshot](./Projects/screenshots/screenshot1.png)
-![App Screenshot](./Projects/screenshots/screenshot2.png)
+<img src="./screenshots/screenshot1.png" width="150"> <img src="./screenshots/screenshot2.png" width="150">
 
